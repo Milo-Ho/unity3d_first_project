@@ -87,6 +87,9 @@ public class rotatePlane : MonoBehaviour {
     }
     private Transform GetChild(Transform tr, int index)
     {
+        # asdfwrt
         return tr.GetChild(index);
+        # adsfasdf
+        # asdrt
     }
 }
